@@ -1,0 +1,20 @@
+{
+  "name": "odin-webpack-template",
+  "version": "1.0.0",
+  "description": "Webpack Template Repository for TOP, modifications to be made as new packages are used.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jettan17/odin-webpack-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jettan17/odin-webpack-template/issues"
+  },
+  "homepage": "https://github.com/Jettan17/odin-webpack-template#readme"
+}
